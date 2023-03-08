@@ -1,9 +1,9 @@
-<p align="center">
-  <a href="https://github.com/arthurspk/guiadecybersecurity">
-    <img src="./images/guia.png" alt="Guia de Cyber Security" width="160" height="160">
-  </a>
-  <h1 align="center">Guia de Cyber Security</h1>
-</p>
+#<p align="center">
+#  <a href="https://github.com/arthurspk/guiadecybersecurity">
+#    <img src="./images/guia.png" alt="Guia de Cyber Security" width="160" height="160">
+#  </a>
+#  <h1 align="center">Guia de Cyber Security</h1>
+#</p>
 
 ## :dart: O guia para alavancar a sua carreira
 
@@ -27,11 +27,11 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## ⚠️ Aviso importante
 
-> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
+#> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
 
-- Me siga no [Github](https://github.com/arthurspk)
-- Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
-- Mande feedbacks no [Linkedin](https://www.linkedin.com/in/arthurspk/)
+#- Me siga no [Github](https://github.com/arthurspk)
+#- Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
+#- Mande feedbacks no [Linkedin](https://www.linkedin.com/in/arthurspk/)
 
 ## 💡 Nossa proposta
 
